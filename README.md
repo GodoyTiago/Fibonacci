@@ -1,2 +1,2 @@
 # Fibonacci
-Fibonacci, one hour and a half breaking my head  over the keyboard. Enjoy it
+Fibonacci and other series, one hour and a half breaking my head  over the keyboard. Enjoy it
